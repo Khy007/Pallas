@@ -14,4 +14,5 @@ public class Test {
 		First student=(First)factory.getBean("firstbean");
 		student.displayInfo();
 	}
+	
 }
